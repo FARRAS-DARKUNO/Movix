@@ -26,6 +26,12 @@ Lalu pada bagian profile terdapat informasi yang mencakup data penggguna (nama &
 
 ![descPageTwo](https://user-images.githubusercontent.com/90910028/171047186-4013b606-17f2-429e-bf8d-1f908b1bfcb4.jpeg)
 
+## Sisi Backend dan API Aplikasi
+
+Untuk pembuatan aplikasi ini digunakan bahasa pemrograman Python dan juga framework Django untuk menghandle databasenya. Berikut ini dilampirkan framework yang digunakan untuk mengembangkan backend dan API dari aplikasi Movix ini.
+
+![image](https://user-images.githubusercontent.com/54610871/171084782-4265fa8d-2397-4ea6-8748-e7d5cc7c588f.png)
+
 
 **Anggota Kelompok**
 - Abdurachman Farras - 119140052
