@@ -32,6 +32,25 @@ Untuk pembuatan aplikasi ini digunakan bahasa pemrograman Python dan juga framew
 
 ![image](https://user-images.githubusercontent.com/54610871/171084782-4265fa8d-2397-4ea6-8748-e7d5cc7c588f.png)
 
+Dalam pengembangannya digunakan juga admin lte 3 sebagai template admin site.
+
+Berikut adalah link API yang digunakan dan sudah di hosting melalui Heroku, bisa di klik di [disini](http://uas-pam-movix-api.herokuapp.com/movix_api/film-list/).
+
+Dan ini adalah tampilan dari API yang digunakan.
+
+![Screenshot from 2022-05-31 11-50-43](https://user-images.githubusercontent.com/54610871/171095176-6274e649-31d5-453f-b19e-847a0d4638df.png)
+
+Sedangkan untuk admin sitenya bisa diakses melalui link [ini](https://uas-pam-movix-api.herokuapp.com/admin/).
+Dengan username = dhifaf dan password = gds21543
+
+Berikut adalah tampilan admin sitenya.
+
+![Screenshot from 2022-05-31 11-55-41](https://user-images.githubusercontent.com/54610871/171095790-e85a9051-3858-4076-a56a-2b06154dd040.png)
+
+## Instalasi Aplikasi
+
+Untuk menginstall aplikasi ini hanya perlu mendownload aplikasi pada link [drive ini](https://drive.google.com/drive/folders/1N-SREbTIp9CLKh-ZL_g027lgaTve2fhf?usp=sharing) di HP android yang ada. Selamat menikmati!
+
 
 **Anggota Kelompok**
 - Abdurachman Farras - 119140052
